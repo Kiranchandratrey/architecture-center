@@ -28,3 +28,4 @@ products:
 thumbnailUrl: /azure/architecture/browse/thumbs/iot-refarch.svg
 content: |
    [!include[](iot-content.md)]
+z
